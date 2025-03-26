@@ -1,12 +1,35 @@
-## Hi there 👋
+# Treffly
+### Приложение для поиска и создания мероприятий
 
-<!--
+---
+## 👥 Команда разработки
+**Разрабатывают студенты 5 группы:**
 
-**Here are some ideas to get you started:**
+- **Попова Полина** – Project Manager, QA-инженер, технический писатель  
+- **Хисаметдинов Мохаммед** – DevOps, Backend-разработчик  
+- **Романюк Кирилл** – Frontend-разработчик, Бизнес-аналитик  
+- **Паневина Елена** – Технический писатель, Бизнес-аналитик, QA-инженер  
+- **Грушин Александр** – Бизнес-аналитик  
+- **Фурсов Максим** – Дизайнер  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+## 🔗 Полезные ссылки
+### 📌 Ссылки на сервисы
+- [Figma – Дизайн](https://www.figma.com/design/VI0b0Bb5HUwBAaYRa75ZLN/Treffly-Design?node-id=0-1&t=r6jB7hzPtEFRW034-1)
+- [Figma – Пользовательские пути](https://www.figma.com/board/yQYBPuryMVMwBe3qRSLAXl/Untitled?node-id=0-1)
+- [Jira – Задачи и управление проектом](https://treffly.atlassian.net/jira/software/projects/TREFFLY/boards/1)
+
+### 📜 Документация проекта
+- [Техническое задание](#) soon
+- [Swagger – API документация](#) soon
+- [Курсовой проект](#) soon
+
+### 🎤 Презентации проекта
+- [Презентация технического задания](https://docs.google.com/presentation/d/1pTEtZhEwPi0-JRQHEQN_jc7Gq44u9v_7dhqmmSEbaTQ/edit?usp=sharing) 
+
+### 🎥 Видео защиты проекта
+- [Видеопрезентация технического задания](#) soon
+
+---
+## 📖 Инструкция по использованию
+🚀 *Скоро будет добавлена...*
