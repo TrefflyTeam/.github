@@ -20,7 +20,7 @@
 - [Figma – Пользовательские пути](https://www.figma.com/board/yQYBPuryMVMwBe3qRSLAXl/Untitled?node-id=0-1)
 - [Брендбук](https://www.figma.com/design/VI0b0Bb5HUwBAaYRa75ZLN/Treffly-Design?node-id=748-3228&p=f&t=hLZsMtqvSsQ1kkSJ-0)
 - [UI-kit](https://www.figma.com/design/VI0b0Bb5HUwBAaYRa75ZLN/Treffly-Design?node-id=293-860&p=f&t=hLZsMtqvSsQ1kkSJ-0)
-- [Jira – Задачи и управление проектом](https://treffly.atlassian.net/jira/software/projects/TREFFLY/boards/1)
+- [Jira – Задачи и управление проектом](https://id.atlassian.com/invite/p/jira-software?id=A8uWIvqWR16OaV9IjQxXDw)
 - [План тестирования](https://github.com/TrefflyTeam/documentation/blob/main/testing/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Treffly.pdf)
 - [Roadmap pdf](https://github.com/TrefflyTeam/documentation/blob/main/business%20analytics/TrefflyRoadmap.pdf)
 - [Финансовая модель pdf](https://github.com/TrefflyTeam/documentation/blob/main/business%20analytics/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.pdf)
