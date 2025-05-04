@@ -33,6 +33,8 @@
 - [Анализ конкурентов (PDF)](https://github.com/TrefflyTeam/documentation/blob/main/business%20analytics/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.pdf)  
 - [SAM/SOM (PDF)](https://github.com/TrefflyTeam/documentation/blob/main/business%20analytics/SAM_SOM.pdf)  
 - [Диаграммы](https://github.com/TrefflyTeam/documentation/tree/main/diagrams)
+- [Отчет PM по статусу работы](https://docs.google.com/document/d/1PHurUxTRRy40FrSy-0-v7DN3K_pPbr3Raw3WG-_-JSE/edit?usp=sharing)
+
 
 ---
 
