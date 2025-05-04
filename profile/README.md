@@ -37,7 +37,7 @@
 - [Swagger — API документация](https://trefflyteam.github.io/backend/)  
 - Курсовой проект — *coming soon*  
 - [Диаграммы](https://github.com/TrefflyTeam/documentation/tree/main/diagrams)
-- [Отчет тестирования функционала MVP](#)
+- [Отчет тестирования функционала MVP](https://github.com/TrefflyTeam/documentation/blob/main/testing/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf)
 - [Отчет PM по статусу работы](https://docs.google.com/document/d/1PHurUxTRRy40FrSy-0-v7DN3K_pPbr3Raw3WG-_-JSE/edit?usp=sharing)
 - [Тест-кейсы ручных QA](https://docs.google.com/spreadsheets/d/1e8xFmVKIN5wnw6jL_gP1S7asH0imSnEqFnSrKxfe1zo/edit?usp=sharing)
 
