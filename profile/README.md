@@ -81,10 +81,11 @@
 
 ### Оценка проекта другими командами:
 
-🔹 [Оценка от 5.1](https://github.com/capti/Cardly/blob/main/Documentation/%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)  
-🔹 [Оценка от 9.3](https://github.com/slash0t/travel-planner/blob/main/documentation/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%202.pdf)  
-🔹 [Оценка от 7.3](https://github.com/Vlad-gw/task-planner-app/blob/main/documentation/%D0%A2%D0%9F%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)  
-🔹 [Оценка от 8.3](#)
+🔹[Оценка от 5.1](https://github.com/capti/Cardly/blob/main/Documentation/%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)  
+🔹[Оценка от 9.3](https://github.com/slash0t/travel-planner/blob/main/documentation/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%202.pdf)  
+🔹[Оценка от 7.3](https://github.com/Vlad-gw/task-planner-app/blob/main/documentation/%D0%A2%D0%9F%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)  
+🔹[Оценка от 8.3](#)
+
 ---
 
 ## 🖥️ Презентации и видео
