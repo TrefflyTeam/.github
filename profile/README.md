@@ -44,7 +44,7 @@
 - [Техническое задание (PDF)](https://github.com/TrefflyTeam/documentation/blob/main/technical%20specification/Техническое%20задание.pdf)  
 - [Swagger — API-документация](https://trefflyteam.github.io/backend/)  
 - [Диаграммы](https://github.com/TrefflyTeam/documentation/tree/main/diagrams)  
-- Курсовой проект — *coming soon*
+- [Курсовая работа (PDF)](https://github.com/TrefflyTeam/documentation/tree/main/coursework)
 
 ---
 
